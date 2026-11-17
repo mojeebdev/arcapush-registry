@@ -1,0 +1,124 @@
+# AI / ML
+
+118 listings from [Arcapush](https://arcapush.com). Generated; do not edit by hand. [Back to all categories](../README.md).
+
+- **[4agent — Discover Tools Built for AI Agents](https://arcapush.com/startup/ai-ml/4agent-discover-tools-built-for-ai-agents)** · Product · The tool discovery platform for AI agents. Browse, search, and integrate agent-friendly services via API and MCP. · Free tier: not stated
+- **[Agenlify](https://arcapush.com/startup/ai-ml/agenlify)** · Product · Find an AI agent for your task · Free tier: not stated
+- **[AI Bikini Try-On](https://arcapush.com/startup/ai-ml/ai-bikini-try-on)** · Product · AI Bikini Generator · Free tier: not stated
+- **[AI Halloween Photo Generator](https://arcapush.com/startup/ai-ml/ai-halloween-photo-generator)** · Product · AI Halloween creates seasonal costume portraits from your reference photo. Pick a look, upload JPG/PNG/WebP, and generate without writing prompts. · Free tier: not stated
+- **[AI Jingle Maker - Create Radio Jingles, Intros, and Station IDs](https://arcapush.com/startup/ai-ml/ai-jingle-maker-create-radio-jingles-intros-and-station-ids)** · Product · Create radio jingles, station IDs, intros, and sponsor tags from text with AI voice and music. · Free tier: not stated
+- **[AI Manga Translator](https://arcapush.com/startup/ai-ml/ai-manga-translator)** · Product · Translate full manga pages with text in the bubbles · Free tier: not stated
+- **[AI Plaza](https://agents.arcapush.com/ai-plaza)** · AI agent · AI Plaza – Find AI Tools for Your Tasks · Free tier: not stated
+- **[AI Remove Text](https://arcapush.com/startup/ai-ml/ai-remove-text)** · Product · Remove text from images with AI · Free tier: not stated
+- **[AIforASMR](https://arcapush.com/startup/ai-ml/aiforasmr)** · Product · Calming, loopable AI ASMR videos from text or images · Free tier: not stated
+- **[aigeneratornsfw.com](https://arcapush.com/startup/ai-ml/aigeneratornsfw-com)** · Product · 18\+ AI studio for non-explicit images, reference editing and short video · Free tier: not stated
+- **[AIPetGen](https://arcapush.com/startup/ai-ml/aipetgen)** · Product · Create anything with your pet. · Free tier: not stated
+- **[AISong - AI Song Cover Generator](https://arcapush.com/startup/ai-ml/aisong-ai-song-cover-generator)** · Product · Create an AI song cover with a different vocal character · Free tier: not stated
+- **[AnswerGap](https://arcapush.com/startup/ai-ml/answergap)** · Product · Find out if AI recommends your business. · Free tier: not stated
+- **[AnswerLine](https://arcapush.com/startup/ai-ml/answerline)** · Product · See what AI tells your customers · Free tier: not stated
+- **[APPLORE](https://arcapush.com/startup/ai-ml/applore)** · Product · Make your app icon, animate it, ship store screenshots · Free tier: not stated
+- **[Aventail](https://arcapush.com/startup/ai-ml/locai)** · Product · Deploy AI and control where requests are processed · Free tier: not stated
+- **[AZN8](https://arcapush.com/startup/ai-ml/azn8)** · Product · The directory built for AI agents and makers · Free tier: not stated
+- **[Ba-Zi.ai](https://arcapush.com/startup/ai-ml/ba-zi-ai)** · Product · Free AI BaZi charting and plain-language readings. · Free tier: not stated
+- **[Bizmuse AI](https://arcapush.com/startup/ai-ml/bizmuse-ai)** · Product · Turn songs, lyrics, and ideas into directed AI music videos. · Free tier: not stated
+- **[BlackInk AI](https://arcapush.com/startup/ai-ml/blackink-ai)** · Product · Create unique tattoos in seconds. · Free tier: not stated
+- **[BlueHumanizer](https://arcapush.com/startup/ai-ml/bluehumanizer)** · Product · Make Your Text Human · Free tier: not stated
+- **[Bolly.AI](https://arcapush.com/startup/ai-ml/bolly-ai)** · Product · Put yourself in any viral clip. AI image, video and audio in one creative suite. · Free tier: not stated
+- **[BotDir](https://arcapush.com/startup/ai-ml/botdir)** · Product · Free directory for AI bots, agents, MCP servers, and integrations · Free tier: not stated
+- **[BriefIQ](https://arcapush.com/startup/ai-ml/briefiq)** · Product · Create SEO Briefs, Write, Grade & Improve Content with AI · Free tier: not stated
+- **[Build to Launch MCP](https://arcapush.com/startup/ai-ml/build-to-launch-mcp)** · Product · Connect your AI agent to 300\+ methods and 100\+ live tools · Free tier: not stated
+- **[Burning Bridges AI](https://arcapush.com/startup/ai-ml/burning-bridges-ai)** · Product · Star in the Burning Bridges Video From One Photo · Free tier: not stated
+- **[Call Monkey Home Service Software](https://arcapush.com/startup/ai-ml/call-monkey-home-service-software)** · Product · Built for the Trades · Free tier: not stated
+- **[Capri Ai Agentpay](https://arcapush.com/startup/ai-ml/capri-ai-agentpay)** · Product · Governed payments for AI agents — wallets, budgets, and signed receipts. · Free tier: not stated
+- **[CheckPassportPhoto](https://arcapush.com/startup/ai-ml/checkpassportphoto)** · Product · Private US passport and visa photo checks with explainable results · Free tier: not stated
+- **[Clever AI Detector](https://arcapush.com/startup/ai-ml/clever-ai-detector)** · Product · AI Detector · Free tier: not stated
+- **[Clipkai](https://arcapush.com/startup/ai-ml/clipkai)** · Product · AI video generator and AI photo editor: text/image to video and one-click photo edits. · Free tier: not stated
+- **[Coat of Arms Maker](https://arcapush.com/startup/ai-ml/coat-of-arms-maker)** · Product · Create decorative coats of arms and fictional crests with AI · Free tier: not stated
+- **[Coda One](https://arcapush.com/startup/ai-ml/coda-one)** · Product · Free AI detector with no daily limit, plus an AI humanizer, rewriter and grammar checker. Start free in your browser — no signup. · Free tier: not stated
+- **[Connect Machine](https://arcapush.com/startup/ai-ml/connect-machine)** · Product · privacy-first, AI-powered contact management platform · Free tier: not stated
+- **[ConsistentCharacterAI](https://arcapush.com/startup/ai-ml/consistentcharacterai)** · Product · Create the same character in any pose and scene · Free tier: not stated
+- **[Coralflavor](https://arcapush.com/startup/ai-ml/coralflavor)** · Product · Freedom-First Unfiltered AI · Free tier: not stated
+- **[CustomTattoo AI](https://arcapush.com/startup/ai-ml/customtattoo-ai)** · Product · Generate custom tattoo designs and preview them on your skin. · Free tier: not stated
+- **[Flux Kontext AI](https://arcapush.com/startup/ai-ml/flux-kontext-ai)** · Product · Advanced AI image generation platform powered by Flux Kontext. Create stunning images from text, edit existing images, and process multiple images with cutting- · Free tier: not stated
+- **[Flying Car AI](https://arcapush.com/startup/ai-ml/flying-car-ai)** · Product · Turn one photo of your car into a cinematic stunt video. · Free tier: not stated
+- **[Fomrix](https://arcapush.com/startup/ai-ml/fomrix)** · Product · Turn images and text into 3D GLB assets, with free browser 3D utilities. · Free tier: not stated
+- **[FunClip](https://arcapush.com/startup/ai-ml/funclip)** · Product · Make AI videos from your photos with a one-time purchase · Free tier: not stated
+- **[Genjutsu AI](https://arcapush.com/startup/ai-ml/genjutsu-ai)** · Product · Recast any video with your own people, pets or products · Free tier: not stated
+- **[GPT Image 2.5](https://arcapush.com/startup/ai-ml/gpt-image-2-5)** · Product · GPT Image 2.5 AI Image Generator · Free tier: not stated
+- **[GPTCLEANUP](https://arcapush.com/startup/ai-ml/gptcleanup)** · Product · Free ChatGPT text cleaner. · Free tier: not stated
+- **[GPTWATERMARKER](https://agents.arcapush.com/gptwatermarker)** · AI agent · Transform AI Images & Videos Instantly. · Free tier: not stated
+- **[HOTEL LOBBY AI](https://arcapush.com/startup/ai-ml/hotel-lobby-ai)** · Product · AI Rap Video Generator · Free tier: not stated
+- **[Humanize Ink](https://arcapush.com/startup/ai-ml/humanize-ink)** · Product · Free AI humanizer: rewrite English drafts in Natural, Professional or Casual tone. · Free tier: not stated
+- **[Image to Layers AI](https://arcapush.com/startup/ai-ml/image-to-layers-ai)** · Product · Split images into editable transparent PNG layers · Free tier: not stated
+- **[Image to Prompt](https://arcapush.com/startup/ai-ml/image-to-prompt)** · Product · Turn reference images into editable AI prompts · Free tier: not stated
+- **[Imgkits](https://arcapush.com/startup/ai-ml/imgkits)** · Product · All-in-one AI image and video editor · Free tier: not stated
+- **[imgs-ai](https://arcapush.com/startup/ai-ml/imgs-ai)** · Product · AI images and videos across web, CLI and Agent Skills · Free tier: not stated
+- **[Inbox Spam Filter](https://arcapush.com/startup/ai-ml/inbox-spam-filter)** · Product · AI spam scoring for HubSpot Shared Inbox · Free tier: not stated
+- **[KidTeller](https://arcapush.com/startup/ai-ml/kidteller)** · Product · Personalized storybooks, written and illustrated in minutes. · Free tier: not stated
+- **[Kling 3.0 AI Video Generator](https://arcapush.com/startup/ai-ml/kling-3-0-ai-video-generator)** · Product · Kling 3.0 text-to-video and image-to-video with multi-shot camera control · Free tier: not stated
+- **[LinkJob AI](https://arcapush.com/startup/ai-ml/linkjob-ai)** · Product · AI job search copilot · Free tier: not stated
+- **[LiveFaceSwap AI](https://arcapush.com/startup/ai-ml/livefaceswap-ai)** · Product · Real-time AI face swap for your webcam — try it in the browser, no local GPU needed. · Free tier: not stated
+- **[Makiverse](https://arcapush.com/startup/ai-ml/makiverse)** · Product · AI Manga for Every Creator · Free tier: not stated
+- **[MatchMind](https://agents.arcapush.com/matchmind)** · AI agent · AI football intelligence for World Cup 2026 fan · Free tier: not stated
+- **[MeetNewAI](https://arcapush.com/startup/ai-ml/meetnewai)** · Product · Find AI tools, AI games, and MCP servers by the job. · Free tier: not stated
+- **[MiFoto](https://arcapush.com/startup/ai-ml/mifoto)** · Product · Edit, enhance, restore, and create photos online with AI · Free tier: not stated
+- **[Minded](https://arcapush.com/startup/ai-ml/minded)** · Product · Build AI Agents By Recording Your Work · Free tier: not stated
+- **[Minimax H3](https://arcapush.com/startup/ai-ml/minimax-h3)** · Product · minimax h3 Video Generator · Free tier: not stated
+- **[MiniMax Music 3.0](https://arcapush.com/startup/ai-ml/minimax-music-3-0)** · Product · MiniMax Music 3.0 AI Music Generator — Create Songs Online · Free tier: not stated
+- **[Motion Transfer](https://arcapush.com/startup/ai-ml/motion-transfer)** · Product · Turn your photo into viral AI video trends in one click · Free tier: not stated
+- **[Mp3toMidi](https://arcapush.com/startup/ai-ml/mp3tomidi)** · Product · Turn MP3, WAV, and M4A audio into editable MIDI online. · Free tier: not stated
+- **[My Room Design](https://arcapush.com/startup/ai-ml/my-room-design)** · Product · Redesign any room from a photo with AI interior design · Free tier: not stated
+- **[NeuralSound](https://arcapush.com/startup/ai-ml/neuralsound)** · Product · AI music source separation: remove vocals, instrumentals or background music from any track. · Free tier: not stated
+- **[Nolyn](https://arcapush.com/startup/ai-ml/nolyn)** · Product · AI research for ecommerce products, reviews and creators · Free tier: not stated
+- **[Nuveda AI](https://arcapush.com/startup/ai-ml/nuveda-ai)** · Product · One studio for AI image, video, voice and music. Built for teams and creators. · Free tier: not stated
+- **[OnVid](https://arcapush.com/startup/ai-ml/onvid)** · Product · Free AI Video Generator for Text-to-Video and Image-to-Video Creation · Free tier: not stated
+- **[Orbitype](https://arcapush.com/startup/ai-ml/orbitype)** · Product · Install complete GTM systems that turn shared data, AI agents, and workflows into revenue. · Free tier: not stated
+- **[Otsukare Summer AI](https://arcapush.com/startup/ai-ml/otsukare-summer-ai)** · Product · Make Your Dog Dance From One Photo · Free tier: not stated
+- **[PalmRead Online](https://arcapush.com/startup/ai-ml/palmread-online)** · Product · Photo-based palm interpretations for entertainment · Free tier: not stated
+- **[Paperchat - AI customer support](https://arcapush.com/startup/ai-ml/paperchat-ai-customer-support)** · Product · Train AI Chatbot for Websites, PDFs & Knowledge Bases with Human Handoff · Free tier: not stated
+- **[PASSMYESSAY](https://arcapush.com/startup/ai-ml/passmyessay)** · Product · Make AI-Assisted Writing Sound Like You. · Free tier: not stated
+- **[PhotoCraft AI](https://arcapush.com/startup/ai-ml/photocraft-ai)** · Product · Edit Images by Chatting with an AI Agent · Free tier: not stated
+- **[Presentation Intelligence](https://arcapush.com/startup/ai-ml/presentation-intelligence)** · Product · Next-Gen Presentation. Agent-Native Creation. · Free tier: not stated
+- **[Private Try-On](https://arcapush.com/startup/ai-ml/private-try-on)** · Product · Private AI virtual try-on: see yourself wearing any outfit before you buy. · Free tier: not stated
+- **[Prizmad](https://arcapush.com/startup/ai-ml/prizmad)** · Product · AI generates the complete video ad — not just the avatar · Free tier: not stated
+- **[Prompt Builder - AI Prompt Generator](https://arcapush.com/startup/ai-ml/prompt-builder-ai-prompt-generator-2)** · Product · Turn an idea into a model-optimized prompt in seconds. Generate, refine, test, and save reusable prompts for Gemini, Claude, ChatGPT, and more. · Free tier: not stated
+- **[Promptclay](https://arcapush.com/startup/ai-ml/promptclay)** · Product · Prompts are better shared. · Free tier: not stated
+- **[PureMIDI](https://arcapush.com/startup/ai-ml/puremidi)** · Product · AI that turns audio and sheet music into MIDI. · Free tier: not stated
+- **[QimenMind](https://arcapush.com/startup/ai-ml/qimenmind)** · Product · Free multilingual Qimen Dunjia charting with AI-assisted interpretation and structured decision reference. · Free tier: not stated
+- **[Ray 3.2 AI](https://arcapush.com/startup/ai-ml/ray-3-2-ai)** · Product · Ray 3.2 AI is a cloud‑based AI video tool supporting keyframe control and professional format export. · Free tier: not stated
+- **[Re-Design](https://arcapush.com/startup/ai-ml/re-design)** · Product · Photograph any room. See it redesigned in 30 seconds. · Free tier: not stated
+- **[ReelBoop](https://arcapush.com/startup/ai-ml/reelboop)** · Product · Turn your photos into dance, outfit-change, duet and product videos with AI templates. · Free tier: not stated
+- **[Reference2Video](https://arcapush.com/startup/ai-ml/reference2video)** · Product · Turn a reference video and your photos into a new AI clip · Free tier: not stated
+- **[Remove Vocal](https://arcapush.com/startup/ai-ml/remove-vocal)** · Product · Online AI vocal remover and stem splitter for karaoke, acapellas and backing tracks · Free tier: not stated
+- **[Riff](https://arcapush.com/startup/ai-ml/riff)** · Product · Fresh replies for every post, written on your computer · Free tier: not stated
+- **[Rizz app - Tchatcheur](https://arcapush.com/startup/ai-ml/rizz-app-tchatcheur)** · Product · The AI rizz app that always knows what to text back. · Free tier: not stated
+- **[RouteMux](https://arcapush.com/startup/ai-ml/routemux)** · Product · Paid AI API gateway with one OpenAI-compatible endpoint for multiple AI models, billing, and routing. · Free tier: not stated
+- **[SearchSpot](https://arcapush.com/startup/ai-ml/searchspot)** · Product · Because great memories need plans that actually work. · Free tier: not stated
+- **[Seedream55ai](https://arcapush.com/startup/ai-ml/seedream55ai)** · Product · Independent, credit-based AI image generator \(not affiliated with ByteDance\) for text-to-image and image editing. · Free tier: not stated
+- **[SEOAgent](https://arcapush.com/startup/ai-ml/seoagent)** · Product · AI SEO software that grows organic traffic on autopilot · Free tier: not stated
+- **[Serro AI](https://arcapush.com/startup/ai-ml/serro-ai)** · Product · Agents that keep your programs moving · Free tier: not stated
+- **[Sherlock - AI Face Search](https://arcapush.com/startup/ai-ml/sherlock-ai-face-search)** · Product · Sherlock is an AI face search and reverse image search app · Free tier: not stated
+- **[Skeleton AI](https://arcapush.com/startup/ai-ml/skeleton-ai)** · Product · AI skeleton video generator for viral skeleton-narrator explainer Shorts, Reels and TikToks. · Free tier: not stated
+- **[Solo Router](https://arcapush.com/startup/ai-ml/solo-router)** · Product · One prepaid API for AI chat, images, video and audio · Free tier: not stated
+- **[SoundToMIDI](https://arcapush.com/startup/ai-ml/soundtomidi)** · Product · Turn audio into editable MIDI in your browser · Free tier: not stated
+- **[Soundwaver](https://arcapush.com/startup/ai-ml/soundwaver)** · Product · AI voiceover with director-mode emotion control · Free tier: not stated
+- **[SpeechText.AI](https://arcapush.com/startup/ai-ml/speechtext-ai)** · Product · Context-aware audio and video transcription for specialist terms · Free tier: not stated
+- **[Stat Sniper](https://arcapush.com/startup/ai-ml/stat-sniper)** · Product · Your AI Sports Betting App. · Free tier: not stated
+- **[SynthPulse](https://arcapush.com/startup/ai-ml/synthpulse)** · Product · One creative studio to generate music, images and video with AI. · Free tier: not stated
+- **[ThoughtStack.ai](https://arcapush.com/startup/ai-ml/thoughtstack-ai)** · Product · Turn AI research into decisions, not chat transcripts · Free tier: not stated
+- **[Tin Computer](https://arcapush.com/startup/ai-ml/tin-computer)** · Product · Autonomous growth for your products · Free tier: not stated
+- **[TryH3](https://arcapush.com/startup/ai-ml/tryh3)** · Product · Try any viral AI video trend with your photo · Free tier: not stated
+- **[tta1](https://arcapush.com/startup/ai-ml/tta1)** · Product · Listen to any article, in your language · Free tier: not stated
+- **[UGCad AI](https://agents.arcapush.com/ugcad-ai)** · AI agent · Turns a product URL, prompt, or template into a ready video ad · Free tier: not stated
+- **[Unsora AI](https://arcapush.com/startup/ai-ml/unsora-ai)** · Product · The creative toolkit your AI assistant can call from the chat you're already in · Free tier: not stated
+- **[Valdar](https://arcapush.com/startup/ai-ml/valdar)** · Product · Sports card scanner app for card values and AI grading · Free tier: not stated
+- **[VISTON AI](https://arcapush.com/startup/ai-ml/viston-ai)** · Product · Turning enterprise data into practical, scalable AI outcomes · Free tier: not stated
+- **[Vivify](https://arcapush.com/startup/ai-ml/vivify)** · Product · Change how you look on a live webcam: Face Swap, Try-On, and Restyle in the browser, or as Vivify Camera. · Free tier: not stated
+- **[Wan 3.0](https://arcapush.com/startup/ai-ml/wan-3-0)** · Product · AI video generator for image-to-video and text-to-video short clips. · Free tier: not stated
+- **[WSUP AI](https://arcapush.com/startup/ai-ml/wsup-ai)** · Product · Free AI Character Chat · Free tier: not stated
+- **[Xwish.ai](https://arcapush.com/startup/ai-ml/xwish-ai)** · Product · An AI-powered online greeting card generator for crafting unique, personalized wishes. · Free tier: not stated
+- **[Yix](https://arcapush.com/startup/ai-ml/yix)** · Product · AI image and video creation in one studio. · Free tier: not stated
+- **[YuE2](https://arcapush.com/startup/ai-ml/yue2)** · Product · YuE2: Frontier AI Music Generator With Editable Scores · Free tier: not stated
+- **[Yume Comic](https://arcapush.com/startup/ai-ml/yume-comic)** · Product · Create comics from your ideas with AI · Free tier: not stated
+
+Licensed CC BY 4.0. Please attribute Arcapush.

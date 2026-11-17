@@ -6,7 +6,33 @@ Only approved, visible, non-archived listings are included, and only public fiel
 
 ## Categories
 
-No category files yet. They appear with the first regeneration from arcapush.com.
+486 listings in 25 categories.
+
+- [AI / ML](categories/ai-ml.md) (118)
+- [AI x Crypto](categories/ai-x-crypto.md) (1)
+- [Creator Economy](categories/creator-economy.md) (10)
+- [Customer Support](categories/customer-support.md) (1)
+- [Developer Tools](categories/developer-tools.md) (38)
+- [E-commerce](categories/e-commerce.md) (12)
+- [EdTech](categories/edtech.md) (15)
+- [FinTech](categories/fintech.md) (17)
+- [Gaming / GameFi](categories/gaming-gamefi.md) (6)
+- [HealthTech](categories/healthtech.md) (7)
+- [HRTech](categories/hrtech.md) (8)
+- [Infrastructure](categories/infrastructure.md) (6)
+- [LegalTech](categories/legaltech.md) (2)
+- [Lifestyle](categories/lifestyle.md) (12)
+- [LogisticsTech](categories/logisticstech.md) (2)
+- [Media & Content](categories/media-content.md) (21)
+- [No-Code / Low-Code](categories/no-code-low-code.md) (5)
+- [Open Source](categories/open-source.md) (1)
+- [Other](categories/other.md) (17)
+- [Personal Development](categories/personal-development.md) (1)
+- [Privacy & Security](categories/privacy-security.md) (7)
+- [Productivity](categories/productivity.md) (54)
+- [PropTech](categories/proptech.md) (4)
+- [SaaS](categories/saas.md) (120)
+- [Social](categories/social.md) (1)
 
 ## Contributing
 
